@@ -1,12 +1,19 @@
 @import "palette.scss";
 
 .header {
-  background: $primary-color;
-  color: #fff;
-  padding: 12px 20px;
+  width: 100%;
+  padding: 12px 0;
+  box-sizing: border-box;
+  position: fixed;
   display: flex;
   justify-content: center;
   align-items: center;
+
+  background: $primary-color;
+  color: #fff;
+
+  box-shadow: 0 2px 7px #333;
+  z-index: 2;
 
   .title {
     font-size: 1.25rem;
