@@ -8,7 +8,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-lazyload": "^2.3.0",
-    "react-scripts": "1.0.17",
+    "react-scripts": "5.0.1",
     "react-slick": "^0.15.4",
     "slick-carousel": "^1.8.1"
   },
